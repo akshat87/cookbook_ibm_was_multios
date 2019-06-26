@@ -1,14 +1,14 @@
 name             'was'
 maintainer       'IBM Corp'
 maintainer_email ''
-license 'Copyright IBM Corp. 2016, 2018'
+license 'Copyright IBM Corp. 2016, 2019'
 issues_url       'https://github.com/IBM-CAMHub-Open/cookbook_ibm_was_multios/issues'
 source_url       'https://github.com/IBM-CAMHub-Open/cookbook_ibm_was_multios'
 chef_version     '>= 12.5' if respond_to?(:chef_version)
 description      'Installs and configures WebSphere Application Server and WebSphere Application Server Network Deployment'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 
-version '2.0.3'
+version '2.0.4'
 
 depends          'ibm_cloud_utils'
 depends          'im'

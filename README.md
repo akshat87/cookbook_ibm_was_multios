@@ -992,7 +992,7 @@ License and Author
 
 Author:: IBM Corp (<>)
 
-Copyright:: 2018, IBM Corp
+Copyright:: 2019, IBM Corp
 
-License:: Copyright IBM Corp. 2016, 2018
+License:: Copyright IBM Corp. 2016, 2019
 
