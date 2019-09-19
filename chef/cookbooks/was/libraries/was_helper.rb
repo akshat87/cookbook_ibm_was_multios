@@ -58,7 +58,7 @@ module WASHelper
     when '85'
       vers_arry.push((ml_vers * 1000 + fp_vers).to_s).join('.')
     when '90'
-      vers_arry.push((ml_vers * 1 + fp_vers).to_s).join('.')
+      vers_arry.push((ml_vers * 1000 + fp_vers).to_s).join('.')
     end
     first_ver + '.' + second_ver + '.' + vers_arry.pop.to_s
   end
