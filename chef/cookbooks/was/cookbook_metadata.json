@@ -14,6 +14,8 @@
             "platforms": [
                 "RHEL 6.x",
                 "RHEL 7.x",
+                "RHEL 8.x",
+                "RHEL 9.x",
                 "Ubuntu 14.x",
                 "Ubuntu 16.x"
             ]
